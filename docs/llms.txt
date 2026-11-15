@@ -1,33 +1,25 @@
-# bst260project-template
+# finalproject
 
-Instructions and template for projects for 2026 HSPH BST260
+Final project for BST260, Fall 2026.
 
-Your project will be a working GitHub pages site that presents your
-interpretation of features of public health datasets.
+This repository contains an R package developed for the BST260 final
+project at Harvard T.H. Chan School of Public Health.
 
-Please see
-[instructions](https://vjcitn.github.io/bst260project-template/articles/instructions.html)
-to set up the infrastructure for your project and to learn about
-available datasets
-
-Please see [project suggestion
-text](https://vjcitn.github.io/bst260project-template/articles/stubs.html)
-for some suggestions of how you might proceed with project work on
-selected datasets. More content will be added to this page in the near
-future.
+The project includes statistical analysis, reproducible research, and
+documentation using R and Quarto.
 
 # Package index
 
 ## All functions
 
-- [`cdcfiremort`](https://github.com/vjcitn/bst260project-template/reference/cdcfiremort.md)
+- [`cdcfiremort`](https://ziyiwang0113.github.io/finalproject/reference/cdcfiremort.md)
   : data from CDC on rates of mortality by firearm by state by year
-- [`cdcmurd`](https://github.com/vjcitn/bst260project-template/reference/cdcmurd.md)
+- [`cdcmurd`](https://ziyiwang0113.github.io/finalproject/reference/cdcmurd.md)
   : data from CDC on homicide rates by state by year
-- [`gunleg`](https://github.com/vjcitn/bst260project-template/reference/gunleg.md)
+- [`gunleg`](https://ziyiwang0113.github.io/finalproject/reference/gunleg.md)
   : data from RAND corporation on historical record of state
   legislatures actions on firearms control
-- [`waterborne`](https://github.com/vjcitn/bst260project-template/reference/waterborne.md)
+- [`waterborne`](https://ziyiwang0113.github.io/finalproject/reference/waterborne.md)
   : data from CDC on waterborne and foodborne illness events
 
 # Articles
@@ -35,6 +27,6 @@ future.
 ### All vignettes
 
 - [Instructions for BST260 projects,
-  2026](https://github.com/vjcitn/bst260project-template/articles/instructions.md):
+  2026](https://ziyiwang0113.github.io/finalproject/articles/instructions.md):
 - [Stubs for BST260 projects,
-  2026](https://github.com/vjcitn/bst260project-template/articles/stubs.md):
+  2026](https://ziyiwang0113.github.io/finalproject/articles/stubs.md):

@@ -1,20 +1,27 @@
-Package: bst260project
-Title: project code and narrative
+Package: finalproject
+Title: BST260 Final Project
 Version: 0.0.2
 Authors@R:
-    person(given = "yourfirstname",
-           family = "lastname",
+    person(given = "Ziyi",
+           family = "Wang",
            role = c("aut", "cre"),
-           email = "youremail@gmail.com",
-           comment = c(ORCID = "0000-0002-1825-0097"))
-Description: provide text on what your project emphasizes and 
-	accomplishes in three or more complete sentences.
-Depends: R (>= 4.5.0)
-Suggests: knitr, testthat, rmarkdown, pkgdown
+           email = "ziyiwang@hsph.harvard.edu")
+Description: This package is developed for the BST260 final project.
+    It provides tools and data for reproducible public health analysis.
+    The project demonstrates statistical methods and computational
+    approaches for investigating public health questions.
+Depends:
+    R (>= 4.5.0)
+Suggests:
+    knitr,
+    testthat,
+    rmarkdown,
+    pkgdown
 License: Artistic-2.0
 VignetteBuilder: quarto
 Encoding: UTF-8
-URL: https://github.com/youreponame
-BugReports: https://github.com/youreponame/issues
+URL: https://github.com/ziyiwang0113/finalproject
+BugReports: https://github.com/ziyiwang0113/finalproject/issues
 Config/roxygen2/version: 8.1.1
 Roxygen: list(markdown=TRUE)
+
