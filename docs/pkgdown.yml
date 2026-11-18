@@ -3,8 +3,9 @@ pkgdown: 2.2.1
 pkgdown_sha: ~
 articles:
   instructions: instructions.html
+  proposal: proposal.html
   stubs: stubs.html
-last_built: 2026-11-15T22:22Z
+last_built: 2026-11-18T20:07Z
 urls:
   reference: https://ziyiwang0113.github.io/finalproject/reference
   article: https://ziyiwang0113.github.io/finalproject/articles
